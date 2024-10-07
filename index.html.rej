@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -27,6 +27,7 @@
+       <div class="col harf">
+         <h2>NEWS</h2>
+         <p>どなたでも参加可能！オープンゼミ 〜Gitを使ってみよう〜</p>
++        <p>5月5日開催</p>
+       </div>
+     </div>
+     <div class="row">
